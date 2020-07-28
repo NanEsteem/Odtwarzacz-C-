@@ -1,0 +1,15 @@
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\bin\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.csprojAssemblyReference.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.csproj.ResolveComReference.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.csproj.GenerateResource.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\Odtwarzacz\obj\Debug\WindowsFormsApp1.pdb

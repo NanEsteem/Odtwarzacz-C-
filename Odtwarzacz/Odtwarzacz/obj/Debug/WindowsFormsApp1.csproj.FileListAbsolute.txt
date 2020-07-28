@@ -1,0 +1,60 @@
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Nauka\Studia\Wsiz 4 semestr\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll

@@ -1,0 +1,16 @@
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.csprojAssemblyReference.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Programowanie\Odtwarzacz\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.csprojAssemblyReference.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\WindowsFormsApp1Tests1.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\WindowsFormsApp1Tests1.pdb
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.csproj.CopyComplete
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.dll
+C:\Users\Esteem\Desktop\WindowsFormsApp1\WindowsFormsApp1Tests1\obj\Debug\WindowsFormsApp1Tests1.pdb

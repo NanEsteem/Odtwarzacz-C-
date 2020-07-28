@@ -1,0 +1,14 @@
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\WindowsFormsApp1Tests1.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\WindowsFormsApp1Tests1.pdb
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\obj\Debug\OdtwarzaczTest.csprojAssemblyReference.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\obj\Debug\OdtwarzaczTest.csproj.CoreCompileInputs.cache
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\obj\Debug\OdtwarzaczTest.csproj.CopyComplete
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\obj\Debug\WindowsFormsApp1Tests1.dll
+C:\Users\Esteem\Desktop\P] Programowanie Marek Jaszuk\Apka + Dok\Odtwarzacz\OdtwarzaczTest\obj\Debug\WindowsFormsApp1Tests1.pdb
